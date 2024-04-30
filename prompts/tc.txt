@@ -1,0 +1,2 @@
+Please create test cases based on provided user story and screenshot of application. 
+The output should be formatted in Markdown, but exclude the beginning and ending code block symbols (```) and omit any extra explanations.

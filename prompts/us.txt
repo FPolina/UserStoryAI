@@ -1,0 +1,2 @@
+Based on the provided screenshot, please create a detailed user story.
+The output should be formatted in Markdown, but exclude the beginning and ending code block symbols (```) and omit any extra explanations.
